@@ -1,0 +1,24 @@
+Hotel Management System
+
+Name: N/A
+Address: N/A
+Contact: N/A
+Check-in: N/A
+Check-out: N/A
+
+Room Rent: PHP0
+
+Room type: =0
+
+Food Purchased: PHP0
+
+Food type: = 0
+
+Drink Purcahsed: PHP0
+
+Drink type: = 0
+
+Item Purchased: PHP0
+
+Item type: = 0
+Total Cost: PHP0
